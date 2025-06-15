@@ -5,7 +5,6 @@ Este e-book de 12 páginas exploramos a fascinante jornada dos jogos de azar, de
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização, estruturação e geração de imagens;
-- IA Generativa **[Gemini](https://gemini.google.com)** para roteirização e estruturação;
 - IA Generativa **[Copilot](https://copilot.microsoft.com)** para roteirização e estruturação;
 
 - IA Generativa **[Adobe Express](https://www.adobe.com/express/)** para criar a arte visual do e-book, edição e outras customizações;
@@ -25,9 +24,9 @@ Adobe express:
  - A ferramenta foi utilizada na versão grátis para organizar os conteúdos gerados por IA e gerar imagens para ilustrar as paginas e layout do ebook.
  
 ## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+Neste eBook, você fará uma breve viagem pela evolução dos jogos de azar, desde suas origens tradicionais até sua consolidação em plataformas online e aplicativos. Exploraremos como esse mercado se transformou em uma máquina bilionária que, ao mesmo tempo em que promete ganhos fáceis, alimenta ilusões perigosas.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/VDR-ACJ/lab-natty-or-not-dio-projetct/blob/main/ebook_dio_jogos_superficiais.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
